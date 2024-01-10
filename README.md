@@ -1,4 +1,2 @@
 # mezash
 
-amanullah
-abajk
